@@ -1,4 +1,4 @@
-console.log('rethesh');
+console.log('inside appjs');
 
 const util = require('./util.js');
 
